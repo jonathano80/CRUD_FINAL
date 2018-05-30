@@ -21,6 +21,10 @@ To use the website, the user would enter the favorite color of shoe, select the 
 
 I used 4 different types of languages which consisted of html, php, css, and javascript. I used the html to make the website layout and display. I used the php for the actual part of the website to store, delete, and update the info in the tables on phpmyadmin. The css was used to make the website look good, which I used by making the background green and adding a border around my picture. Lastly, for the javascript, I added an alert message that said that the database was loading when the user clicked the button to find the info.
 
+# How it was Made
+
+The website was made by creating an html file and calling other php files that were coded to store, delete, and update the data to keep the tables updated. The html had all of the code to make the websites structure so the user could see it. The php files did all of the background work to save, update, and delete the info from the tables, that were connected through phpmyadmin. 
+
 
 # Credits
 
